@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer of Software from Peru</h3>
 
 
-<p align="center" dir="auto" > <img src="[https://i.gifer.com/2QrM.gif](https://gifer.com/embed/2QrM)" width="100%"> </img></p>
+<p align="center" dir="auto" > <img src="[https://i.gifer.com/2QrM.gif](https://gifer.com/embed/2QrM)](https://i.pinimg.com/originals/65/ca/d0/65cad07c8a592b5027af38a00baaec7e.gif)" width="100%"> </img></p>
 
 - 🔭 I’m currently working on **Electro Puno S.A.A.**
 
