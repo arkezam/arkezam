@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin A. Paye Zamata</h1>
 <h3 align="center">A passionate developer of Software from Peru</h3>
-<p align="center" dir="auto" ><img src="https://i.pinimg.com/originals/65/ca/d0/65cad07c8a592b5027af38a00baaec7e.gif" width="100%"></img></p>
-
-<p align="center" dir="auto" > <img src="" width="100%"> </img></p>
+<p align="center" dir="auto" ><img src="https://i.pinimg.com/originals/65/ca/d0/65cad07c8a592b5027af38a00baaec7e.gif" width="50%"></img></p>
 
 - 🔭 I’m currently working on **Electro Puno S.A.A.**
 
