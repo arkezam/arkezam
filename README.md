@@ -23,9 +23,13 @@ Hello!!! <br />
 I am <b>Kevin Paye</b><br />
 I am from <strong> Peru </strong> country of delicious food ☕ <br />
 I'm a guy who love develop new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b> I AM YOUR GUY </b> <br />
-Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
+Hello!!!
+I am Kevin Paye
+I am from Peru country of delicious food ☕
+I'm a guy who love develop new things 🖥️
+So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️. 
+
+Contact me for new projects 📨, I am open to collaborate with you.</sup>
 <br/><br/> 
 
 - 🌱 I’m currently learning **Angular, Java, Spring, NodeJS, Spring, React, Docker, Git, and more**
